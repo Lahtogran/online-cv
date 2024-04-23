@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nargo Thal
+    tagline: Freelancer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: nargothal@gmail.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    timezone: Poland/EST
+    citizenship: Polish
+    website: lahtogran.com #do not add http://
+    linkedin: lahtogran
+    xing: lahtogran
+    github: lahtogran
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,40 +33,35 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Polish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Philosophy
           link:
 
-        - item: Snowboarding
+        - item: Psychology
           link:
 
-        - item: Cooking
+        - item: History
           link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: 
+    A jack of all trades but master of none
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: High 
         university: University of London
         time: 2011 - 2012
         details: |
